@@ -1,0 +1,17 @@
+{
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "workbench.colorCustomizations": {
+    "editorBracketHighlight.foreground1": "#fafafa",
+    "editorBracketHighlight.foreground2": "#9F51B6",
+    "editorBracketHighlight.foreground3": "#F7C244",
+    "editorBracketHighlight.foreground4": "#F07850",
+    "editorBracketHighlight.foreground5": "#9CDD29",
+    "editorBracketHighlight.foreground6": "#0098FA"
+  },
+  "prettier.useTabs": false,
+  "prettier.tabWidth": 2,
+  "prettier.printWidth": 100,
+  "prettier.singleQuote": true,
+  "prettier.bracketSpacing": true,
+}
